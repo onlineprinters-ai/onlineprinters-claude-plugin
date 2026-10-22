@@ -27,6 +27,10 @@ In the Claude apps and in Claude Code, add it from the plugin directory. In Clau
 /plugin install onlineprinters --marketplace onlineprinters-ai/onlineprinters-claude-plugin
 ```
 
+## Licence
+
+Apache License 2.0, see LICENSE. The Onlineprinters name and logo are trademarks of Onlineprinters GmbH and are not licensed under it.
+
 ## Privacy and support
 
 Privacy notice: https://privacy-policy-url-placeholder.invalid/
