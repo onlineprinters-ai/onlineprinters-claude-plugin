@@ -1,0 +1,15 @@
+{
+  "name": "onlineprinters-claude-plugin",
+  "owner": {
+    "name": "Onlineprinters GmbH",
+    "url": "https://www.onlineprinters.de"
+  },
+  "description": "Onlineprinters plugin for Claude",
+  "plugins": [
+    {
+      "name": "onlineprinters",
+      "source": "./",
+      "description": "Find and configure Onlineprinters print products, see the shop list price and estimated delivery date, check whether your print file fits, and get a link to order in the shop."
+    }
+  ]
+}

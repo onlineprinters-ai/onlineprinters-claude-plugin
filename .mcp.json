@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onlineprinters": {
+      "type": "http",
+      "url": "https://mcp.onlineprinters.com/claude/mcp"
+    }
+  }
+}

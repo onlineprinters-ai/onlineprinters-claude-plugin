@@ -1,0 +1,25 @@
+{
+  "name": "onlineprinters",
+  "displayName": "Onlineprinters",
+  "version": "1.0.0",
+  "description": "Find and configure Onlineprinters print products, see the shop list price and estimated delivery date, check whether your print file fits, and get a link to order in the shop.",
+  "author": {
+    "name": "Onlineprinters GmbH",
+    "url": "https://www.onlineprinters.de"
+  },
+  "homepage": "https://documentation-url-placeholder.invalid/",
+  "keywords": [
+    "onlineprinters",
+    "print",
+    "druck",
+    "flyer",
+    "visitenkarten",
+    "plakate",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://documentation-url-placeholder.invalid/",
+  "supportUrl": "https://support-url-placeholder.invalid/",
+  "privacyPolicyUrl": "https://privacy-policy-url-placeholder.invalid/",
+  "termsOfServiceUrl": "https://terms-of-use-url-placeholder.invalid/"
+}
