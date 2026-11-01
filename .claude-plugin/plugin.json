@@ -1,8 +1,8 @@
 {
   "name": "onlineprinters",
   "displayName": "Onlineprinters",
-  "version": "1.0.0",
-  "description": "Find and configure Onlineprinters print products, see the shop list price and estimated delivery date, check whether your print file fits, and get a link to order in the shop.",
+  "version": "1.1.0",
+  "description": "Find and configure Onlineprinters print products, see the shop list price and estimated delivery date, check whether your print file fits, and get a link to order in the shop or a cart link that puts the product into the shop basket. After you connect your Onlineprinters customer account, see your own orders, invoices and quotes.",
   "author": {
     "name": "Onlineprinters GmbH",
     "url": "https://www.onlineprinters.de"
@@ -20,6 +20,6 @@
   "icon": "./assets/icon.png",
   "documentationUrl": "https://documentation-url-placeholder.invalid/",
   "supportUrl": "https://support-url-placeholder.invalid/",
-  "privacyPolicyUrl": "https://privacy-policy-url-placeholder.invalid/",
-  "termsOfServiceUrl": "https://terms-of-use-url-placeholder.invalid/"
+  "privacyPolicyUrl": "https://www.onlineprinters.org/c/about-us/legal-information/ai-connector/privacy-ai-connector",
+  "termsOfServiceUrl": "https://www.onlineprinters.org/c/about-us/legal-information/ai-connector/terms-ai-connector"
 }
