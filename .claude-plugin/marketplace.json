@@ -9,7 +9,7 @@
     {
       "name": "onlineprinters",
       "source": "./",
-      "description": "Find and configure Onlineprinters print products, see the shop list price and estimated delivery date, check whether your print file fits, and get a link to order in the shop."
+      "description": "Find and configure Onlineprinters print products, see the shop list price and estimated delivery date, check whether your print file fits, and get a link to order in the shop or a cart link that puts the product into the shop basket. After you connect your Onlineprinters customer account, see your own orders, invoices and quotes."
     }
   ]
 }
