@@ -7,7 +7,7 @@
     "name": "Onlineprinters GmbH",
     "url": "https://www.onlineprinters.de"
   },
-  "homepage": "https://documentation-url-placeholder.invalid/",
+  "homepage": "https://www.onlineprinters.org/c/faq/ai-plugin-claude",
   "keywords": [
     "onlineprinters",
     "print",
@@ -18,8 +18,8 @@
     "mcp"
   ],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://documentation-url-placeholder.invalid/",
-  "supportUrl": "https://support-url-placeholder.invalid/",
+  "documentationUrl": "https://www.onlineprinters.org/c/faq/ai-plugin-claude",
+  "supportUrl": "https://www.onlineprinters.org/c/faq/ai-plugin-claude",
   "privacyPolicyUrl": "https://www.onlineprinters.org/c/about-us/legal-information/ai-connector/privacy-ai-connector",
   "termsOfServiceUrl": "https://www.onlineprinters.org/c/about-us/legal-information/ai-connector/terms-ai-connector"
 }
