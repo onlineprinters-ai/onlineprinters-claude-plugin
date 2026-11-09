@@ -32,4 +32,4 @@ Apache License 2.0, see LICENSE. The Onlineprinters name and logo are trademarks
 ## Privacy and support
 
 Privacy notice: https://www.onlineprinters.org/c/about-us/legal-information/ai-connector/privacy-ai-connector
-Help and support: https://www.onlineprinters.org/c/faq/ai-plugin-claude
+Help and support: https://www.onlineprinters.org/c/faq/ai-plugins/ai-plugin-claude
